@@ -1,0 +1,5 @@
+~/backup_cfg/config/
+~/.emacs.d/
+~/.gitconfig
+~/.bashrc
+~/.ssh/config

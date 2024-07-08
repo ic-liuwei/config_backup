@@ -1,1 +1,0 @@
-/home/autumn/emacs_rcfile/emacs.d
